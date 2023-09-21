@@ -1,0 +1,6 @@
+1. mainPage,movie,movieDetail
+2. mainPage에서 top banner가 있다.
+3. 3가지 영화 섹션이 있다
+4. 배우 사진들이 낭려된다.
+5. 각 영화에 마우스를 올리면 scale - 제목, 장르, 인기도, 청소년 관람 불가 여부
+6. section 이 slide구성.
