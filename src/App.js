@@ -13,8 +13,8 @@ function App() {
       <Header />
       <Routes>
         <Route path="/" element={<Main />} />
-        <Route path="/movies" element={<MovieList />} />
-        <Route path="/movieDetail" element={<MovieDetail />} />
+        <Route path="/movie" element={<MovieList />} />
+        <Route path="/movie/:id" element={<MovieDetail />} />
       </Routes>
       <Footer />
     </>
